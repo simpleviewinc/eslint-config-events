@@ -1,6 +1,9 @@
 {
-  "name": "@simpleview/eslint-config-events-base",
+  "name": "@sv-events/eslint-config-events-base",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "~8.13.0"
+  }
 }

@@ -31,6 +31,10 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@simpleview/eslint-config-events@https://github.com/simpleviewinc/eslint-config-events.git#master":
+  version "1.0.0"
+  resolved "https://github.com/simpleviewinc/eslint-config-events.git#ac75c719dd309adf51a03182cc8a79db39f484a7"
+
 acorn-jsx@^5.3.1:
   version "5.3.2"
   resolved "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
