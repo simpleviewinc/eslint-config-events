@@ -1,0 +1,19 @@
+{
+  "name": "@simpleview/eslint-config-events",
+  "version": "1.0.0",
+  "description": "ESLint Config for the Simpleview Events Team",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "format"
+  ],
+  "author": "michael.carolin@simpleviewinc.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "8.13.0"
+  },
+  "peerDependencies": {
+    "eslint": "~8.13.0"
+  }
+}
