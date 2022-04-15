@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"@simpleview/eslint-config-events@https://github.com/simpleviewinc/eslint-config-events.git":
+"@simpleview/eslint-config-events@https://github.com/simpleviewinc/eslint-config-events.git#master":
   version "1.0.0"
-  resolved "https://github.com/simpleviewinc/eslint-config-events.git#8b2e44bf1f3c26e96c9f686d1f9df40d1cc326f5"
+  resolved "https://github.com/simpleviewinc/eslint-config-events.git#df43ebcd12093693f73532a75e19dea33161e0e4"
