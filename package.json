@@ -1,5 +1,5 @@
 {
-  "name": "@sv-events/eslint-config-events",
+  "name": "@simpleview/eslint-config-events",
   "version": "1.0.0",
   "description": "ESLint Config for the Simpleview Events Team",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "author": "michael.carolin@simpleviewinc.com",
   "license": "ISC",
   "devDependencies": {
-    "@sv-events/eslint-config-events": "https://github.com/simpleviewinc/eslint-config-events.git#master",
+    "@simpleview/eslint-config-events": "https://github.com/simpleviewinc/eslint-config-events.git#master",
     "eslint": "8.13.0"
   },
   "peerDependencies": {
